@@ -81,10 +81,11 @@ dansRoll();
 dansRoll();
 ```
 
-a. Where is closure used in this code? How can you tell?
+a. Where is closure used in this code? How can you tell? the one functin is passed into the other
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
+the number output that is the '#' that was rolled. it could be any number from 1-6
 c. What is the lexical scope of `newRoll`? 
-
+within the function
 
 ### Task 3 - Stretch Goals
 
